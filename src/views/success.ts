@@ -124,7 +124,7 @@ export function renderSuccessPage(): string {
     <h1>Yaaay!</h1>
     <p>You said YES! 💕</p>
     <div class="hearts-row">💕 💖 💝 💗 💕</div>
-    <p>Happy Valentine's Day!</p>
+    <p>Happy Valentine's Week!</p>
     <p class="message">
       Chalo fir chale momos khane?
     </p>
