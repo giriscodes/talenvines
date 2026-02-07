@@ -17,7 +17,6 @@ app.use('/', routes);
 app.listen(config.port, () => {
   console.log(`💕 ${config.appName} is running at http://localhost:${config.port}`);
   console.log(`🔒 Hidden page: http://localhost:${config.port}/hidden`);
-  console.log(`👤 Made with love by ${config.author}`);
 });
 
 export default app;
