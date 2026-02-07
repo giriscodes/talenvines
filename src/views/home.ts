@@ -92,7 +92,6 @@ export function renderHomePage(): string {
     <div class="logo">💕</div>
     <h1>${config.appName}</h1>
     <p>Love is in the air... and so are surprises! 🌸</p>
-    <p class="hint">Love by ${config.author}</p>
   </div>
   
   <script>
